@@ -1,5 +1,3 @@
-package domain;
-
 public class ControlStructures {
 	
 	private int x;
